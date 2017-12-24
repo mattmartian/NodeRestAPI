@@ -1,12 +1,15 @@
 {
-  "name": "lab3",
+  "name": "lab2",
   "version": "1.0.0",
-  "description": "Lab 3 for web 2.0",
+  "description": "Lab 2 for Web 2.0",
   "main": "server.js",
   "scripts": {
-    "test": "npm start",
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "Matthew Martin 000338807",
-  "license": "ISC"
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2"
+  }
 }
